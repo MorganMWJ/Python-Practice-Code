@@ -1,0 +1,46 @@
+Use forward slashes in python for path string variables
+Any string path variable that has whitepace must be enclosed in brackets
+(therefore make habit of adding quotes to all pth literals by using '\"' + string + '\"')
+
+#can make tuples like this
+1+4, 5*8.0
+>>> (5, 40.0)
+
+#when performing math that mixes numeric data types 
+#python will always turn the simpler type into a more
+#complicated one before evaluating the expression
+5.0*2
+>>> 10.0
+(ie. 5.0*5 -> 5.0*5.0 -> 25.0)
+
+#even though all are integers in expression 
+#python perfroms true division with remainders 
+#becasue of the '/' division sign
+6/2 + 1
+>>> 4.0
+(6/2 + 1 -> (6/2)+1 -> (6.0/2.0)+1 -> 3.0+1 -> 3.0+1.0 -> 4.0)
+
+#use '//' to do division that returns an integer
+6//2 + 1
+>>>4
+
+#'//' truncates any remainder
+10//4
+>>>2
+
+0o37 #octal
+0xFE #hexadecimal
+0b10001101 #binary
+
+#has funtion built in to convert to any of these
+hex(64)
+>>>0x40
+
+eval() function takes a string runs it as python code to test it
+0x40
+>>> 64
+THEREFORE
+eval('0x40')
+>>> 64
+eval("print('Hello World')")
+>>> Hello World
