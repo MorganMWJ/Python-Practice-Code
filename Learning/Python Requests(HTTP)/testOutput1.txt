@@ -1,0 +1,375 @@
+﻿
+<!DOCTYPE html>
+<html amp lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+<meta name="description" content="FREE online programmer training from beginner to advanced courses. Keep up to date with the latest programming news, tutorials and information.">
+<link rel="canonical" href="https://www.hipstercode.com/" />
+<link rel="amphtml" href="https://www.hipstercode.com/">
+
+    <meta name="robots" content="index, follow">
+    <meta property="og:image" content="/static/img/header-bg.jpg"/>
+    <link rel="icon" href="/static/img/logo1.ico" type="image/x-icon" />
+    <title>Home</title>
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/css/agency1.css" rel="stylesheet">
+    <link href="/static/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-77762958-1', 'auto');
+        ga('send', 'pageview');
+        </script>
+        <meta name="google-site-verification" content="LMoF0tsRv_rWeU8birCDUTmkdywQCbNeDlYeWwRfQWI" />
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-8990144480776862",
+            enable_page_level_ads: true
+        });
+    </script>
+<style>
+#portfolio .portfolio-item .portfolio-caption p {
+    overflow: hidden;
+}
+</style>
+    
+    <meta name="google-site-verification" content="d6qw22UurnudY4QErk2jRqX1Bqc05Y8u18761sJ5ZIo" />
+
+    <style>
+        .pricing-dark-section {
+            border-top: 1px solid #EAEAEA;
+            border-bottom: 1px solid #EAEAEA;
+            background: #222;
+            background: -webkit-linear-gradient(top, #222 0, #222 100%);
+            background: -moz-linear-gradient(top, #222 0, #222 100%);
+            background: -o-linear-gradient(top, #222 0, #222 100%);
+            background: linear-gradient(top, #222 0, #222 100%);
+            margin-top: 120px;
+            padding-top: 45px;
+            padding-bottom: 70px;
+        }
+
+        .pricing-dark-section .header h3 {
+            font-size: 27px;
+            color: #fff;
+            line-height: 25px;
+            font-weight: 400;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+        }
+
+        .pricing-dark-section .charts {
+            margin-top: 35px;
+        }
+
+        .pricing-dark-section .charts .chart.first {
+            float: right;
+        }
+
+        .pricing-dark-section .charts .chart .quantity {
+            text-align: center;
+        }
+
+        .pricing-dark-section .charts .chart .plan-name {
+            text-align: center;
+            font-size: 40px;
+            font-weight: 400;
+            color: #777;
+            border-bottom: 1px solid #d5d5d5;
+            padding-bottom: 15px;
+            width: 90%;
+            margin: 0 auto;
+            margin-top: 8px;
+        }
+
+        .pricing-dark-section .charts .chart.first {
+            float: right;
+        }
+
+        .pricing-dark-section .charts .chart {
+            background-color: #fff;
+            border: 1px solid #E6E6E6;
+            border-radius: 5px;
+            box-shadow: 0px 0px 2px 0px rgba(181, 181, 181, 0.3);
+            padding: 20px 40px;
+            position: relative;
+            text-align: center;
+            width: 100%;
+            min-height: 315px;
+            position: relative;
+            top: 37px;
+        }
+
+        .pricing-dark-section .charts .chart .specs {
+            margin-top: 20px;
+        }
+
+        .pricing-dark-section .charts .chart .specs .spec {
+            font-size: 30px;
+            color: #353535;
+            text-align: center;
+            font-weight: 300;
+            margin-bottom: 13px;
+        }
+
+        .pricing-dark-section .charts .chart .specs .spec .variable {
+            color: #1FBEE7;
+            font-weight: 400;
+        }
+
+        .col-md-6.portfolio-item {
+            margin-bottom: 20px;
+            margin-top: 20px;
+            height: 400px;
+            overflow: hidden;
+        }
+
+        img.img-responsive {
+            width: auto;
+            margin: 0 auto;
+            height: 300px;
+        }
+
+        h3 {
+            text-align: center;
+        }
+
+        .page-header {
+            padding-bottom: 9px;
+            text-align: center;
+            border-bottom: 1px solid #eee;
+            margin: 0;
+        }
+
+        @media (min-width: 768px) {
+            section {
+                padding: 20px;
+            }
+        }
+
+    .fancy-title {
+        font-family: 'Noto Serif', serif;
+        font-style: italic;
+    }
+
+    header {
+        background-image: url(/static/img/main_header.jpg); 
+    }
+
+    @media (min-width: 768px) {
+        .col-sm-4 {
+            height: 334px;
+        }
+    }
+        
+    </style>
+
+
+</head>
+<body id="page-top" class="index">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="/"><img src="/static/img/medium.png" class="logo" alt="HipsterCode" /></a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="/">Home</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="/blog/blog/">Blog</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="/pricing/">Pricing</a>
+                    </li>
+                    
+                      <li>
+                          <a class="page-scroll" href="/login/">Log In</a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="/accounts/register/">Register</a>
+                      </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-heading">The Best Source for Finding IT Talent</div>
+            </div>
+        </div>
+    </header>
+    <section id="services">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-12 text-center">
+                  <h2 class="section-heading text-uppercase">Promote Your Product With Us!</h2>
+                  <hr>
+                </div>
+              </div>
+              <div class="row text-center">
+                <div class="col-md-4">
+                  <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-money fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <h4 class="service-heading">Cheap Price</h4>
+                  <p class="text-muted">Advertising your job or product with us is simple and cheap.</p>
+                </div>
+                <div class="col-md-4">
+                  <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <h4 class="service-heading">Reach A Huge Audience</h4>
+                  <p class="text-muted">
+                    Sponsoring our YouTube channel has the greatest potential to reach hundreds of thousands. 
+                  </p>
+                </div>
+                <div class="col-md-4">
+                  <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <h4 class="service-heading">Video Promotion</h4>
+                  <p class="text-muted">We offer custom video promotions.</p>
+                </div>
+              </div>
+            </div>
+          </section>
+
+
+          <section class="bg-light" id="team">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-lg-12 text-center">
+                      <h2 class="section-heading text-uppercase">Our Happy Customers</h2>
+                      <h3 class="section-subheading text-muted">Many large companies have chosen to advertise with us.  Here are just a few.</h3>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-sm-4">
+                      <div class="team-member">
+                        <img class="mx-auto rounded-circle" src="/static/img/activestate.jpg" alt="">
+                        <h4>ActiveState</h4>
+                        <p class="text-muted">Software Development</p>
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="team-member">
+                        <img class="mx-auto rounded-circle" src="/static/img/wixcode.jpg" alt="">
+                        <h4>Wix Code</h4>
+                        <p class="text-muted">Website Development</p>
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="team-member">
+                        <img class="mx-auto rounded-circle" src="/static/img/devmountain.jpg" alt="">
+                        <h4>DevMountain</h4>
+                        <p class="text-muted">Coding Bootcamp</p>
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="/static/img/techsmith.jpg" alt="">
+                            <h4>TechSmith</h4>
+                            <p class="text-muted">Video Software</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="/static/img/templatemonster.jpg" alt="">
+                            <h4>TemplateMonster</h4>
+                            <p class="text-muted">Website Development</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="/static/img/the_tech_academy.jpg" alt="">
+                            <h4>The Tech Academy</h4>
+                            <p class="text-muted">Coding Bootcamp</p>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+
+         
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="row">
+                    </div>
+                    <div class="row">
+                        <span class="copyright">Copyright &copy; 2018 | Noob Media LLC | All Rights Reserved</span>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li><a href="https://twitter.com/realchrishawkes"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="https://www.youtube.com/user/noobtoprofessional"><i class="fa fa-youtube"></i></a>
+                        </li>
+                        <li><a href="https://www.instagram.com/officialhipstercode/"><i class="fa fa-instagram"></i></a>
+                        </li>
+                        <li><a href="https://www.linkedin.com/in/christopher-hawkes-130aa835"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a href="/privacy">Privacy Policy</a>
+                        </li>
+                        <li><a href="https://www.amazon.com/b?_encoding=UTF8&tag=noobmusiccom-20&linkCode=ur2&linkId=22c38f15da575a8e59173ded302b1ce5&camp=1789&creative=9325&node=13900871">Affiliate</a>
+                        </li>
+                        <li><a href="/terms">Terms of Use</a>
+                        </li>
+                        <li><a href="/copyright">Copyright</a>
+                        </li>
+                        <li><a href="/about">About Us</a>
+                        </li>
+                        <li><a href="/contact">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/static/js/jquery.js"></script>
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="/static/js/classie.js"></script>
+    <script src="/static/js/cbpAnimatedHeader.js"></script>
+    <script src="/static/js/jqBootstrapValidation.js"></script>
+    <script src="/static/js/contact_me.js"></script>
+    <script src="/static/js/agency.js"></script>
+    
+
+    
+</body>
+</html>
